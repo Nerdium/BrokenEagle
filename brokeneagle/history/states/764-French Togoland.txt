@@ -1,0 +1,24 @@
+state={
+	id=764
+	name="STATE_764"
+
+	history={
+		owner = FRA
+		buildings = {
+			infrastructure = 2
+			air_base = 1
+			13206 ={
+				naval_base = 1
+			}		
+
+		}
+		
+	}
+
+	provinces={
+		13206 
+	}
+	manpower=1047
+	buildings_max_level_factor=1
+	state_category="rural"
+}
